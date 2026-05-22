@@ -1,0 +1,6 @@
+{
+  "name": "Data Cleanser",
+  "description": "An interactive web utility designed to process messy CSV and JSON datasets into analysis-ready data by resolving missing values, eliminating duplicate records, unifying date/time formats, and standardizing text casing and category labels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
